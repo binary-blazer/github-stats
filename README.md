@@ -1,3 +1,5 @@
+![github-stats](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/github-stats/image.svg)
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
